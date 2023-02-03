@@ -1,0 +1,8 @@
+site_name: "0203 spring 1"
+site_description: "0203 spring 1"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
